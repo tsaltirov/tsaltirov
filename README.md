@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Todor</h1>
 <h3 align="center">I'm from Spain and I'm Junior Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **"Linea de código rota"-> new app**
+- 🔭 I’m currently working on **"Help Hub Project"-> new app**
 
 - 🌱 I’m currently learning **Spring Boot, Spring Cloud, NestJS, React**
 
-- 👯 I’m looking to collaborate on **"Linea de código rota"**
+- 👯 I’m looking to collaborate on **"Some open source project"**
 
-- 🤝 I’m looking for help with **"Linea de código rota"-> Frontend**
+- 🤝 I’m looking for help with **"My skills in different areas like Teleco or Electronic software."
 
 - 👨‍💻 All of my projects are available at [www.tsaltirov.es](www.tsaltirov.es)
 
