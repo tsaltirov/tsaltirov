@@ -1,24 +1,33 @@
-<h1 align="center">Hi 👋, I'm Todor</h1>
-<h3 align="center">I'm from Spain and I'm Junior Software Developer</h3>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#00BFFF;">Todor</span></h1>
+<h3 align="center">💻 Software Developer | 🚀 Tech Enthusiast | 🧠 Lifelong Learner</h3>
 
-- 🔭 I’m currently working on **"TS Signage"-> new app about digital signage**
+---
 
-- 🌱 I’m currently learning **Spring Boot,CI/CD Tools, Jenkins, Kubernetes**
+<!-- Decorative GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
+</p>
 
-- 👯 I’m looking to collaborate on **"Some open source project"**
+---
 
-- 🤝 I’m looking for help with **"My skills in different areas like Teleco or Electronic software."
+## 🚀 About Me
 
+- 👨‍💻 Currently working at: TS Signage Project.
+- 🛠️ Current Stack: `TS`, `React`, `Nest.js`, `Spring Boot`, `MongoDB`, `Docker`
+- 🌱 Learning: `AWS Services`, `Kotlin`, `Clean Architecture`
+- 💬 Ask me about: Web development, APIs, Integrations, Automatizations.
 - 👨‍💻 All of my projects are available at https://tsaltirov.es
+- 📫 Reach me at: [LinkedIn](www.linkedin.com/in/todor-saltirov-ivanov) | [Email](mailto:saltirov9@hotmail.com)
 
-- 💬 Ask me about **JavaScript,Angular, NodeJS, Express, Mongo,NestJS**
-
-- 📫 How to reach me **saltirov9@hotmail.com**
+---
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/todor-saltirov-ivanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/todor-saltirov-ivanov" height="30" width="40" /></a>
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="www.linkedin.com/in/todor-saltirov-ivanov"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:saltirov9@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-0072C6?style=flat-square&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://tsaltirov.es"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=web"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
