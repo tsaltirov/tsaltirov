@@ -25,7 +25,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/todor-saltirov-ivanov"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/todor-saltirov-ivanov"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:saltirov9@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-0072C6?style=flat-square&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://tsaltirov.es"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=web"></a>
 </p>
